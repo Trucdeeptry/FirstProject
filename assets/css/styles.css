@@ -71,9 +71,7 @@ color: white !important;
     position: initial;
 }
 /* Main */
-#main{
 
-}
 
 #header{
 height: 46px;
@@ -191,10 +189,7 @@ background: url(/assets/img/slider/slider1.jpg) top center/ cover no-repeat;
 }
 
 
-#content{
 
-
-}
 #content .content-section{
     padding: 64px 0px 64px;
     margin-left: auto;
@@ -315,9 +310,7 @@ opacity: 0.6;
     
 }
 
-#footder{
 
-}
 .modal{
     position: fixed;
     top: 0;
